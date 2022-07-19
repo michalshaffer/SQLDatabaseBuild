@@ -1,6 +1,6 @@
 Database design and build project
 
-Project write-up: https://medium.com/@michalshaffer_25047/the-stolen-base-a-taste-of-sabermetrics-68356127dbf1
+Project write-up: https://medium.com/@michalshaffer_25047/
 
 Database Create script.sql  -  A full create script for tables, views, stored procedures, and triggers.
 DataCleanup job SQL Server Agent.sql  -  A script to create a scheduled job in SQL Server Agent
